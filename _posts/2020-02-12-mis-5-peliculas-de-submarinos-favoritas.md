@@ -2,8 +2,12 @@
 layout: post
 title: Mis 5 películas de submarinos preferidas
 category: cine
-comments: true
+disqus: true
+cover: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Akula_class_submarine.JPG/1920px-Akula_class_submarine.JPG
 ---
+
+Porque, admitámoslo, un submarino en una peli siempre queda bien. Ese ambiente claustrofóbico, esa tensión de no poder ver qué está ocurriendo... Aquí va una pequeñísima lista con mis favoritas de este peculiar género:
+
 [La caza del Octubre Rojo](https://www.imdb.com/title/tt0099810/)
 -
 

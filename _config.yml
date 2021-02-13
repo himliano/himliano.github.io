@@ -1,17 +1,16 @@
-# Setup
-title:               'Desde Gomeslavia con amor'
-description:         'Tribulaciones, cábalas y demás pensamientos sin orden ni concierto con el único afán de sacarlos de mi cabeza y hacer sitio para muchos otros nuevos.'
-url:                 https://himliano.github.io
-baseurl:             ''
-paginate:            5
-permalink:           pretty
+name: Desde Gomeslavia con amor
+description: Tribulaciones, cábalas y demás pensamientos sin orden ni concierto.
 
-version: 0.1
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: ''
+plugins: [jekyll-paginate]
 
-# About/contact
-author:
-  name:              Himliano
+# Details for the RSS feed generator
+url: "https://himliano.github.io"
+author: "Himliano"
 
-# Gems
-plugins:
-  - jekyll-paginate
+# Disqus config
+disqus-shortname: "desde-gomeslavia-con-amor"
