@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Mis 5 películas de submarinos preferidas
+category: cine
+comments: true
 ---
 [La caza del Octubre Rojo](https://www.imdb.com/title/tt0099810/)
 -
